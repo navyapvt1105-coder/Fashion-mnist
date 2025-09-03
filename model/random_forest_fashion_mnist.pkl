@@ -1,3 +1,0 @@
-import joblib
-
-joblib.dump(rf, 'random_forest_fashion_mnist.pkl')
